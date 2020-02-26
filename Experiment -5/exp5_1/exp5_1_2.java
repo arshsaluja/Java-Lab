@@ -8,7 +8,7 @@ e.fun();
 }
 }
 //to compile
-//javac exp6_1.java
+//javac -d . exp6_1.java
 //javac adp21.java
 //java adp2.adp21
 //output--  fun in package p2
