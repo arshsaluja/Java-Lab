@@ -11,7 +11,7 @@ Account a= new Account();
 a.disp_balance(b);
 }
 }
-//javac Account.java
+//javac -d . Account.java
 //javac exp6_3.java
 //java p3.exp6_3
 //output
