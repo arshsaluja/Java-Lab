@@ -1,0 +1,29 @@
+//create an exception class which throws an exception 
+//if operand is nonnumeric in calculating modules.(use command line arguments)
+//using Integer.compare(x,y) 
+import java.util.*;
+class excep3
+{
+ static void valid(int age)
+{	int i=0;
+if(Integer.compare(age,i)==0)
+{
+throw new NumberFormatException ("not valid enter a interger value");
+}
+else
+{
+	System.out.println("valid");
+}
+}
+public static void main(String args[])
+{
+	try
+	{
+	valid (Integer.parseInt(args[0]));
+	}
+catch (NumberFormatException e)
+{
+System.out.println(e);
+}
+}
+}
