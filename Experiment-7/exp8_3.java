@@ -1,5 +1,5 @@
 //wap in java to read a statement from console  ,convert it to upper case and again print on console
-//dont use inbuilt function
+//dont use inbuilt function.
 import java.util.*;
 class exp8_3
 {
