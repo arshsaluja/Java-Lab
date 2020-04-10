@@ -1,5 +1,5 @@
 //Wrapper Classes-wap in java that 
-//2.>   converts Integer to String 
+//2.>   converts Integer to String.
 import java.util.*;
 class exp9_2
 {
