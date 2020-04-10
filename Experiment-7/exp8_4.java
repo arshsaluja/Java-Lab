@@ -4,7 +4,7 @@
 //Find whether the character 'a' is in your name or not ;
 //if yes  find the no of times 'a' appears in your name .
 //Print locations of occourences of 'a'.
-//Try the same for different string objects
+//Try the same for different string objects.
 import java.util.*;
 class exp8_4
 {
