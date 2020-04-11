@@ -31,7 +31,7 @@ System.out.println(w1);
 System.out.println("Enter a float value that is converted to String ");
 Float r=sc.nextFloat();
 String r1=Float.toString(r);
-System.out.println(w1);
+System.out.println(r1);
 // converts String to Float
 System.out.println("Enter a String value that is converted to Float");
 String s=sc.next();
